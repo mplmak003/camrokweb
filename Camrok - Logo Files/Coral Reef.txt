@@ -1,0 +1,11 @@
+Coral Reef
+#C3B59C
+
+Lunar Green
+#2E3D34
+
+Verdigris
+#68623A
+
+Siam
+#545A4D
